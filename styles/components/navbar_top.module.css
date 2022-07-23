@@ -1,0 +1,8 @@
+.navbar_top{
+    background-color: aqua;
+    display: flex;
+    align-self: center;
+    align-items: center;
+    align-content: center   ;
+    justify-content: center;
+}
